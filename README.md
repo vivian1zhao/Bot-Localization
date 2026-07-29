@@ -1,4 +1,4 @@
-# Train Booking System
+# Blind Bot Localization (Project 1)
 
 - Contributors: [Vivian Zhao](https://github.com/vivian1zhao), [Sofia Wolfel](https://github.com/sofiaWaffle)
 - Course: Introduction to Artificial Intelligence ([16:198:520](https://www.cs.rutgers.edu/academics/graduate/m-s-program/course-synopses/course-details/16-198-520-introduction-to-artificial-intelligence))
